@@ -27,7 +27,7 @@
     }
     .remove-item {
         cursor: pointer;
-        margin-left: 15px;
+        margin-left: 16px;
     }
     .remove-item:hover {
         color: lightseagreen; 
